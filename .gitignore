@@ -21,7 +21,6 @@ vendor/
 go.work
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -40,9 +39,9 @@ Thumbs.db
 *.log
 
 # Environment files
-.env
-.env.local
 
 # Temporary files
 tmp/
 temp/
+config.bat
+node_modules
