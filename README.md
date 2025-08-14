@@ -11,7 +11,7 @@ A comprehensive Ethereum wallet transaction tracker that fetches, categorizes, a
   - ERC-721 NFT transfers
 - 📊 **Automatic Categorization**: Intelligently categorizes transactions by type
 - 💾 **CSV Export**: Exports structured data for portfolio management software
-- ⚡ **High Performance**: Handles wallets with 160,000+ transactions
+- ⚡ **High Performance**: Handles wallets with huge transactions
 - 🛡️ **Robust**: Built-in retry logic and error handling
 - 🎯 **Production Ready**: Rate limiting and validation
 
@@ -137,18 +137,6 @@ The application includes comprehensive error handling for:
 - Network connectivity issues
 - Data parsing errors
 - File system errors
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
